@@ -1,18 +1,18 @@
 # E-Commerce-Performance-Profitability-Analysis
 
-# Dataset Overview
+ Dataset Overview
  
 This project analyzes the Sample Superstore dataset from Kaggle.
 
-# Dimensions: 13 columns and 9,994 rows.
+ Dimensions: 13 columns and 9,994 rows.
 
-# Data Cleaning: Identified and removed 17 duplicate rows. Checked for missing values (no NaN values found).
+ Data Cleaning: Identified and removed 17 duplicate rows. Checked for missing values (no NaN values found).
 
-# Feature Engineering: Created two new columns: `Cost` and `Profit Margin %`.
+ Feature Engineering: Created two new columns: `Cost` and `Profit Margin %`.
 
-# Data Export: Exported the cleaned dataset using `decimal=','` to ensure seamless loading into Google Sheets without regional formatting errors.
+ Data Export: Exported the cleaned dataset using `decimal=','` to ensure seamless loading into Google Sheets without regional formatting errors.
 
-# Data Formatting: Ensured that `Profit`, `Cost`, `Profit Margin %`, `Discount`, and `Sales` were properly formatted as numerical data types for data modeling.
+ Data Formatting: Ensured that `Profit`, `Cost`, `Profit Margin %`, `Discount`, and `Sales` were properly formatted as numerical data types for data modeling.
 
 
 
